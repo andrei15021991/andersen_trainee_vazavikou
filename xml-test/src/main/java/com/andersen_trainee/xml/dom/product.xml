@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products>
+    <product id="1">
+        <name>orange</name>
+        <price>12</price>
+    </product>
+    <product id="2">
+        <name>banana</name>
+        <price>10</price>
+    </product>
+    <product id="3">
+        <name>apple</name>
+        <price>7</price>
+    </product>
+</products>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+    <user id="1">
+        <firstName>Conor</firstName>
+        <lastName>McGregor</lastName>
+        <age>32</age>
+    </user>
+    <user id="2">
+        <firstName>Cody</firstName>
+        <lastName>Garbrant</lastName>
+        <age>29</age>
+    </user>
+    <user id="3">
+        <firstName>Tony</firstName>
+        <lastName>Ferguson</lastName>
+        <age>35</age>
+    </user>
+</users>
